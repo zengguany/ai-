@@ -1,0 +1,5 @@
+{
+  "name": "AI 灵感绘梦 (AI Creative Muse)",
+  "description": "一个基于 AI 的创意写作助手。上传图片，AI 将分析意境并创作故事开篇，支持语音朗读。 (An AI-powered creative writing assistant. Upload an image, and the AI analyzes the mood to write a story opening, with text-to-speech support.)",
+  "requestFramePermissions": []
+}
